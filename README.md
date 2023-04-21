@@ -1,2 +1,2 @@
-# Integra-o_API_CHATGPT
+# Integraçao_API_CHATGPT JS
 Integração_API_CHATGPT
